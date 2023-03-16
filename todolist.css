@@ -18,7 +18,7 @@ body{
     
 
 }
-#deleteToDo{
+#deleteToDo, #clearCompleted{
     font-family:"Boogaloo", sans-serif;
     background-color: red;
     color:white;
