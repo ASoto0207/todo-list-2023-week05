@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width:50%;
+    margin-left:auto; 
+    margin-right:auto; 
+    font-family:"Boogaloo", sans-serif; 
+    background-image: url(thetodolist.png);
+    
+}
+#toDoButton{
+    font-family:"Boogaloo", sans-serif;
+    background-color:blue;
+    color:white;
+    width:75px;
+    height:25px;
+    
+
+}
+#deleteToDo{
+    font-family:"Boogaloo", sans-serif;
+    background-color: red;
+    color:white;
+    width:75px;
+    height:25px;
+}
+
+
+
+.container{
+    width:400px;
+
+}
