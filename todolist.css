@@ -18,15 +18,24 @@ body{
     
 
 }
-#deleteToDo, #clearCompleted{
+#deleteToDo{
     font-family:"Boogaloo", sans-serif;
     background-color: red;
     color:white;
     width:75px;
     height:25px;
 }
-
-
+#clearCompleted{
+    font-family:"Boogaloo", sans-serif; 
+    background-color: green;
+    color:white;
+    width:90px;
+    height: 40px;
+}
+.selected{
+    text-decoration: line-through;
+    color:red; 
+}
 
 .container{
     width:400px;
